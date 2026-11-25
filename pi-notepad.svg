@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="64" height="64" viewBox="0 0 64 64">
+<defs>
+<linearGradient id="linear-pattern-0" gradientUnits="userSpaceOnUse" x1="0" y1="0" x2="0" y2="16" gradientTransform="matrix(4, 0, 0, 4, 0, 0)">
+<stop offset="0" stop-color="rgb(33%, 73%, 98%)" stop-opacity="1"/>
+<stop offset="1" stop-color="rgb(13%, 45%, 86%)" stop-opacity="1"/>
+</linearGradient>
+</defs>
+<path fill-rule="nonzero" fill="url(#linear-pattern-0)" d="M 48 4 C 52.417969 4 56 7.582031 56 12 L 56 52 C 56 56.417969 52.417969 60 48 60 L 16 60 C 11.582031 60 8 56.417969 8 52 L 8 12 C 8 7.582031 11.582031 4 16 4 Z M 48 4 "/>
+<path fill="none" stroke-width="1.1" stroke-linecap="round" stroke-linejoin="miter" stroke="rgb(100%, 100%, 100%)" stroke-opacity="0.92" stroke-miterlimit="10" d="M 5 5 L 11 5 " transform="matrix(4, 0, 0, 4, 0, 0)"/>
+<path fill="none" stroke-width="1.1" stroke-linecap="round" stroke-linejoin="miter" stroke="rgb(100%, 100%, 100%)" stroke-opacity="0.92" stroke-miterlimit="10" d="M 5 8 L 11 8 " transform="matrix(4, 0, 0, 4, 0, 0)"/>
+<path fill="none" stroke-width="1.1" stroke-linecap="round" stroke-linejoin="miter" stroke="rgb(100%, 100%, 100%)" stroke-opacity="0.92" stroke-miterlimit="10" d="M 5 11 L 9 11 " transform="matrix(4, 0, 0, 4, 0, 0)"/>
+</svg>
